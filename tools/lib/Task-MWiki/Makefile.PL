@@ -13,5 +13,8 @@ require		'DBI'		  => 0;
 require		'DBD::mysql'	  => 0;
 require     'Catalyst::View::Mason' => 0;
 require     'Text::Markdown' => 0;
+require     'DBIx::Class::Schema::Loader' => 0;
+require     'MooseX::MarkAsMethods' => 0.13;
+require     'MooseX::NonMoose' => 0.16;
 
 WriteAll;
