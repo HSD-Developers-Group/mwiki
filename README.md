@@ -1,4 +1,4 @@
-mwiki
+MWiki - Lightweight Markdown-based Wiki
 =====
 
-MWiki
+Oh no I am not good with computer how did I get here.
